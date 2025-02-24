@@ -188,8 +188,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a819100950bba64ba7b47a5feb1cdc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AnimationDuration: 0.5
+  m_AnimationDuration: 0.25
   m_FillObject: {fileID: 1473044584882378358}
+  <IsFilled>k__BackingField: 0
+  <Row>k__BackingField: 0
+  <Column>k__BackingField: 0
 --- !u!1 &8521790000466179758
 GameObject:
   m_ObjectHideFlags: 0
